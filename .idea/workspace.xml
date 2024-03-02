@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b76e249-8815-4d22-9e20-642e701ab91d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/apk/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6+hwzBcKjK2TUFNkVnelHNeTlwU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/A72++cA4OhQxmG5Kz2iATt9jSro=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GzstTt5hHA1sw7Ryw_3BoNuMOXQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TIMo_RCCXWYVHpQlqb_TDU4HNIA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/U5hkG2tCGnZRB8WVBi+PXAAujfA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Yxla8f31mYdgKUaVK4M6qiEfac8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_2LlmRusibWFX85ihV8QxFx+iMQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/a7WUEETW__V7wxdeH0xzUPy5ZyM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ctXJ2bmWp2USZMxk1HigSjWEFPE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/eo7rK4fpA3LMwT9IAOcCmaca+Jg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gQProS8qXs931zc3nPl_a1kTonc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gtsKsnHN4aG31mDfx53SomPGSyo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nDdw9RSR_X_C1zv5H884+3f6Rx8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/o00If+p53aWlXiFoQcq64eE51Eg=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zTj8hnXR8csPadTH6jJ_o9PpRv8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-land/values-land.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-th/values-th.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v34/values-v34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_manifests/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/drawable__a2798355316e7e80af84040686c3344.jpg.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/drawable_dbc7636bb173ffb38acb503d8ee44995.jpg.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/drawable_instagram_bookmark_icon.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/drawable_instagram_comment_icon.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/drawable_instagram_messages_icon.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/mipmap-anydpi_ic_launcher_round.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-in_values-in.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-my_values-my.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-small-v4_values-small-v4.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-v17_values-v17.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-v22_values-v22.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-v23_values-v23.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-watch-v20_values-watch-v20.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-watch-v21_values-watch-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h360dp-land-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-port.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w360dp-port-v13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_res/debug/drawable/_adb111ae3c50a92d7ab06d79c538d45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_res/debug/drawable/f434198617b505887d949e52b0995f61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_res/debug/drawable/instagram_comment_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_res/debug/drawable/instagram_like_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/project_dex_archive/debug/out/com/example/instagramactivity/LayoutExercise.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/project_dex_archive/debug/out/d85493235b8933917936cf387cabf16a93640c1f94e5006eae392096f3cbdcf4_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/project_dex_archive/debug/out/d85493235b8933917936cf387cabf16a93640c1f94e5006eae392096f3cbdcf4_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/java/com/example/instagramactivity/ButtonActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/java/com/example/instagramactivity/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/drawable/_adb111ae3c50a92d7ab06d79c538d45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/drawable/anitamaxwynn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/drawable/f434198617b505887d949e52b0995f61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/drawable/instagram_moreoptions_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutActivity/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2d8gMGfhlQQKybbC68U0EAtYlGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/GILES/Documents/CIT-U BSCS/2 - 2nd Semester/CSIT284 - Platform-based Development 3 (Mobile)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b76e249-8815-4d22-9e20-642e701ab91d" name="Changes" comment="" />
+      <created>1709395070111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709395070111</updated>
+    </task>
+    <servers />
+  </component>
+</project>
