@@ -23,12 +23,11 @@ public class ButtonActivity extends AppCompatActivity {
         Button disappearBtn = findViewById(R.id.disappearBtn);
 
         closeBtn.setOnClickListener(view -> {
-            Intent closeActivity = new Intent(ButtonActivity.this, MainActivity.class);
-            startActivity(closeActivity);
+            finish();
         });
 
         toastBtn.setOnClickListener(view -> {
-            Toast toast = Toast.makeText(getApplicationContext(), "Hello World", Toast.LENGTH_SHORT);
+            Toast toast = Toast.makeText(getApplicationContext(), "This is a toast!", Toast.LENGTH_SHORT);
             toast.show();
         });
 

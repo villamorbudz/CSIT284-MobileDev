@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "InstagramActivity"
+rootProject.name = "LayoutActivity"
 include(":app")

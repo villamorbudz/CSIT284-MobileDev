@@ -3992,24 +3992,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\CSIT284-MobileDev\\LayoutActivity\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
-                        "startLines": "1,10,11,7,9,8,3,4,5,6,2",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "17,527,591,342,471,413,127,181,233,290,73",
-                        "endColumns": "54,62,63,69,54,56,52,50,55,50,52",
-                        "endOffsets": "67,585,650,407,521,465,175,227,284,336,121"
+                        "startLines": "2,7,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "102,339,425",
+                        "endLines": "5,7,12",
+                        "endColumns": "12,82,12",
+                        "endOffsets": "331,417,564"
                     },
                     "to": {
-                        "startLines": "1966,2099,2100,2101,2102,2103,2113,2114,2115,2116,2117",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "130249,149229,149292,149356,149426,149481,150518,150571,150622,150678,150729",
-                        "endColumns": "54,62,63,69,54,56,52,50,55,50,52",
-                        "endOffsets": "130299,149287,149351,149421,149476,149533,150566,150617,150673,150724,150777"
+                        "startLines": "2468,6382,9156",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "173103,446314,635985",
+                        "endLines": "2471,6382,9159",
+                        "endColumns": "12,81,12",
+                        "endOffsets": "173223,446391,636121"
                     }
                 },
                 {
-                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\CSIT284-MobileDev\\LayoutActivity\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -4062,22 +4064,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\CSIT284-MobileDev\\LayoutActivity\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,7,9",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "102,339,425",
-                        "endLines": "5,7,12",
-                        "endColumns": "12,82,12",
-                        "endOffsets": "331,417,564"
+                        "startLines": "1,10,11,7,9,8,3,4,5,6,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,527,591,342,471,413,127,181,233,290,73",
+                        "endColumns": "54,62,63,69,54,56,52,50,55,50,52",
+                        "endOffsets": "67,585,650,407,521,465,175,227,284,336,121"
                     },
                     "to": {
-                        "startLines": "2468,6382,9156",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "173103,446314,635985",
-                        "endLines": "2471,6382,9159",
-                        "endColumns": "12,81,12",
-                        "endOffsets": "173223,446391,636121"
+                        "startLines": "1966,2099,2100,2101,2102,2103,2113,2114,2115,2116,2117",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "130249,149229,149292,149356,149426,149481,150518,150571,150622,150678,150729",
+                        "endColumns": "54,62,63,69,54,56,52,50,55,50,52",
+                        "endOffsets": "130299,149287,149351,149421,149476,149533,150566,150617,150673,150724,150777"
                     }
                 },
                 {
@@ -4936,7 +4936,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\GILES\\Documents\\CIT-U BSCS\\2 - 2nd Semester\\CSIT284 - Platform-based Development 3 (Mobile)\\CSIT284-MobileDev\\LayoutActivity\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

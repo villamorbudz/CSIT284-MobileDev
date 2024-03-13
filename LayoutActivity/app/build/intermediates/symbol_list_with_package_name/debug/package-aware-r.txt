@@ -3156,6 +3156,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id additionBtn
 id alertTitle
 id aligned
 id all
@@ -3184,11 +3185,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id button3
 id button4
 id buttonPanel
 id buttonsActivityBtn
 id cache_measures
+id calculatorActivityBtn
 id callMeasure
 id cancel_button
 id carryVelocity
@@ -3206,6 +3207,7 @@ id checkbox
 id checked
 id chronometer
 id circle_center
+id clearBtn
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -3233,6 +3235,7 @@ id cut
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
+id decimalBtn
 id decor_content_parent
 id default_activity_button
 id deltaRelative
@@ -3251,6 +3254,8 @@ id disablePostScroll
 id disableScroll
 id disappearBtn
 id disjoint
+id displayTextView
+id divisionBtn
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3272,6 +3277,7 @@ id end
 id endToStart
 id enterAlways
 id enterAlwaysCollapsed
+id equalsBtn
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3400,6 +3406,7 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
+id multiplicationBtn
 id multiply
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -3419,6 +3426,16 @@ id north
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id num0Btn
+id num1Btn
+id num2Btn
+id num3Btn
+id num4Btn
+id num5Btn
+id num6Btn
+id num7Btn
+id num8Btn
+id num9Btn
 id off
 id on
 id onInterceptTouchReturnSwipe
@@ -3445,11 +3462,13 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id parenthesesBtn
 id password_toggle
 id path
 id pathRelative
 id peekHeight
 id percent
+id percentageBtn
 id pin
 id position
 id post1
@@ -3539,6 +3558,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signBtn
 id sin
 id skipCollapsed
 id skipped
@@ -3571,6 +3591,7 @@ id storiesContainer
 id stretch
 id submenuarrow
 id submit_area
+id subtractionBtn
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3772,6 +3793,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_button
+layout activity_calculator
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item

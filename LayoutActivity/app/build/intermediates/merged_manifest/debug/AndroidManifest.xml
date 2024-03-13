@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.InstagramActivity" >
         <activity
+            android:name="com.example.instagramactivity.Calculator"
+            android:exported="false" />
+        <activity
             android:name="com.example.instagramactivity.LayoutExercise"
             android:exported="false" />
         <activity

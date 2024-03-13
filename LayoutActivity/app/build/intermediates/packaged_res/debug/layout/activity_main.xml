@@ -49,7 +49,7 @@
                 android:layout_marginTop="50dp"
                 android:text="Button"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button3" />
+                app:layout_constraintTop_toBottomOf="@+id/calculatorActivityBtn" />
 
             <Button
                 android:id="@+id/layoutActivityBtn"
@@ -63,12 +63,12 @@
                 app:layout_constraintTop_toTopOf="parent" />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/calculatorActivityBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="160dp"
+                android:layout_marginStart="148dp"
                 android:layout_marginTop="50dp"
-                android:text="Button"
+                android:text="Calculator"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/buttonsActivityBtn" />
         </androidx.constraintlayout.widget.ConstraintLayout>

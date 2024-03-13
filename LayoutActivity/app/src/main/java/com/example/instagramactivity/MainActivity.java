@@ -14,16 +14,23 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Button layoutActivityBtn= findViewById(R.id.layoutActivityBtn);
-        Button ButtonsActivityBtn = findViewById(R.id.buttonsActivityBtn);
+        Button buttonsActivityBtn = findViewById(R.id.buttonsActivityBtn);
+        Button calculatorActivityBtn = findViewById(R.id.calculatorActivityBtn);
 
         layoutActivityBtn.setOnClickListener(view -> {
             Intent openLayoutActivity = new Intent(MainActivity.this, LayoutExercise.class);
             startActivity(openLayoutActivity);
         });
 
-        ButtonsActivityBtn.setOnClickListener(view -> {
+        buttonsActivityBtn.setOnClickListener(view -> {
             Intent openButtonsActivity = new Intent(MainActivity.this, ButtonActivity.class);
             startActivity(openButtonsActivity);
         });
+
+        calculatorActivityBtn.setOnClickListener(view -> {
+            Intent openCalculatorActivity = new Intent(MainActivity.this, Calculator.class);
+            startActivity(openCalculatorActivity);
+        });
+
     }
 }
